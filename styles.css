@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+*{
+	background-color:greenyellow
+}
+h3{
+	text-align:left;
+	color:blue;
+}
+h1{
+	color:red;
+	text-shadow:0px 0px 10px orangered;
+}
+ul,ol{
+	color:white;
+	text-shadow:0px 0px 10px black;
+}
